@@ -1,0 +1,4 @@
+0 Verde
+1 Amarilla
+2 Medio madura
+3 Sobremadura

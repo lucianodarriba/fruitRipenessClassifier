@@ -1,0 +1,3 @@
+0 Verde
+1 Maduro
+2 Sobremaduro

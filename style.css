@@ -1,0 +1,17 @@
+body {
+    color: #fff;
+    height: 100vh;
+    background:         linear-gradient(to right bottom, #7bbd6e, #262355);
+    /*background:         radial-gradient(#7bbd6e, #262355);*/
+}
+
+.stButton>button {
+    color: #4F8BF9;
+    border-radius: 50%;
+    height: 3em;
+    width: 3em;
+}
+
+.stTextInput>div>div>input {
+    color: #4F8BF9;
+}
